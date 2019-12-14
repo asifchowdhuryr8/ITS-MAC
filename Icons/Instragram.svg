@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="25px" viewBox="0 0 24 25" version="1.1">
+    
+    <title>3 -Instragram- (Solid)</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3--Instragram--(Solid)" fill="#000000">
+            <path d="M16,9.009 C15.448,9.009 15,8.561 15,8.009 C15,7.457 15.448,7.009 16,7.009 C16.552,7.009 17,7.457 17,8.009 C17,8.561 16.552,9.009 16,9.009 M12,16.009 C9.794,16.009 8,14.215 8,12.009 C8,9.803 9.794,8.009 12,8.009 C14.206,8.009 16,9.803 16,12.009 C16,14.215 14.206,16.009 12,16.009 M17,6.009 L7,6.009 C6.448,6.009 6,6.458 6,7.009 L6,17.009 C6,17.56 6.448,18.009 7,18.009 L17,18.009 C17.552,18.009 18,17.56 18,17.009 L18,7.009 C18,6.458 17.552,6.009 17,6.009" id="Fill-9"/>
+            <path d="M20,17.009 C20,18.663 18.654,20.009 17,20.009 L7,20.009 C5.346,20.009 4,18.663 4,17.009 L4,7.009 C4,5.355 5.346,4.009 7,4.009 L17,4.009 C18.654,4.009 20,5.355 20,7.009 L20,17.009 Z M17,0.009 L7,0.009 C3.141,0.009 0,3.149 0,7.009 L0,17.009 C0,20.869 3.141,24.009 7,24.009 L17,24.009 C20.859,24.009 24,20.869 24,17.009 L24,7.009 C24,3.149 20.859,0.009 17,0.009 L17,0.009 Z" id="Fill-11"/>
+            <path d="M12,10.009 C10.897,10.009 10,10.906 10,12.009 C10,13.112 10.897,14.009 12,14.009 C13.103,14.009 14,13.112 14,12.009 C14,10.906 13.103,10.009 12,10.009" id="Fill-13"/>
+        </g>
+    </g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="3 -Instragram- (Solid)" dc:description="3 -Instragram- (Solid)" dc:publisher="Iconscout" dc:date="2017-07-09" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Icons24px .</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

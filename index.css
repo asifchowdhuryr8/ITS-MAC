@@ -1,0 +1,351 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: grey;
+    color: skyblue;
+}
+
+/* Section1 Start */
+
+.section1{
+    height: 330px;
+    width: 1209px;
+    background-color: #0b1a27e0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.ImageEdit{
+    height: 300px;
+    width: 450px;
+    border-radius: 25px;
+    margin: 10px 0px 0px 10px;
+    float: left;
+    filter: drop-shadow(5px 5px 10px#8484848c);
+}
+
+.Name{
+    margin: 0px;
+    letter-spacing: 8px;
+    font-size: 30px;
+    line-height: 19px;
+    padding-top: 20px;
+    float: right;
+    width: 700px;
+    text-align: center;
+    height: 130px;
+    overflow: hidden;
+}
+
+.Name span{
+    color: tomato;
+}
+
+.Biodata{
+    float: right;
+    font-size: 20px;
+    width: 700px;
+    text-align: center;
+    padding: 10px 10px 0px 0px;
+    height: 140px;
+    overflow: hidden;
+}
+
+/* Section1 End */
+
+/* Section2 Start */
+
+.section2{
+    width: 1209px;
+    margin: 0 auto;
+    height: 609px;
+    background-color: #0f034db3;
+    position: relative;
+}
+
+.skills{
+    font-size: 35px;
+    padding: 15px 0px;
+    color: orange;
+    margin: 0px auto;
+    width: 190px;
+    text-align: center;
+}
+
+.all{
+    left: 10px;
+    right: 10px;
+    position: absolute;
+}
+
+.HTML{
+    height: 230px;
+    width: 334px;
+    padding: 30px 30px 0px 30px;
+    display: inline-block;
+    font-size: 18px;
+    overflow: hidden;
+    animation: MAC 2s;
+    background-color:#ffffffa3;
+    border: 1px solid #c49a3a61;
+    color: #040404;
+}
+
+.HTML h2{
+    display: inline-block;
+    font-size: 23px;
+} 
+
+.HTMLH{
+    float: right;
+    width: 280px;
+}
+
+.WordEdit{
+    overflow: hidden;
+    height: 150px;
+    text-align: justify;
+    float: left;
+    padding-top: 3px;
+}
+
+/* IconArea Start */
+
+.Icons{
+    width: 47px;
+    height: auto;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.H-icon{
+    width: 45px;
+    height: auto;
+    margin-top: 5px;
+}
+
+.C-Icon{
+    width: 45px;
+    height: auto;
+    margin-top: 7px; 
+}
+
+.Cpp-Icon{
+    width: 45px;
+    height: auto;
+    margin-top: 7px; 
+}
+
+/* IconArea End */
+
+/* SkillAreaFormating Start */
+
+.HTML2 {
+    float: left; 
+}
+
+.CSS{
+    float: left;  
+}
+
+.C{
+    float: left;
+}
+
+.Cpp{
+    float: left;
+}
+
+.Java{
+    float: left; 
+}
+
+.Python{
+    float: left;
+}
+
+/* SkillAreaFormating End */
+
+/* HoverEffect Start */
+
+.Name:hover{
+    animation: MAC2 2s;
+}
+
+.skills:hover{
+    transform: scale(0.8);
+    transition-duration: 2s;
+}
+
+.HTML2:hover{
+    animation:MAC2 2s; 
+    background-color: white;
+    color: tomato;   
+}
+
+.CSS:hover{
+    animation:MAC3 2s;
+    background-color: #fff;
+    color: blue;
+}
+
+.C:hover{
+    animation:MAC4 2s;
+    background-color: skyblue;
+    color: #fff;
+}
+
+.Cpp:hover{
+    animation:MAC6 2s;
+    background-color: black;
+    color: #1da0f294;
+}
+
+.Java:hover{
+    animation:MAC7 2s;
+    background-color: #333;
+    color: white;
+}
+
+.Python:hover{
+    animation:MAC5 2s;
+    background-color: #14174dd1;
+    color: yellow;
+}
+
+/* HoverEffect End */
+
+/*  Section2  End */
+
+/* AnimationArea Start */
+
+@keyframes MAC{
+    from{ transform: scale(0) ;}
+    to {transform: scale(1);}
+}
+
+@keyframes MAC2{
+    from{ transform: rotate(0deg) ;}
+    to {transform: rotate(360deg);}
+}
+
+@keyframes MAC3{
+    from{ transform: rotateX(0deg) ;}
+    to {transform: rotateX(360deg);}
+}
+
+@keyframes MAC4{
+    from{ transform: rotateY(0deg) ;}
+    to {transform: rotateY(360deg);}
+}
+
+@keyframes MAC5{
+    from{ transform: rotate(0deg) ;}
+    to {transform: rotate(360deg);}
+}
+
+@keyframes MAC6{
+    from{ transform: scale(1) ;}
+    to {transform: scale(0.8);}
+}
+
+@keyframes MAC7{
+    from{ transform: scale(1) ;}
+    to {transform: scale(0.7);}
+}
+
+/* AnimationArea End */
+
+
+/* FooterArea Start */
+
+.footer{
+    margin: 0 auto;
+    width: 1209px;
+    height: 130px;
+    background-color: black;
+    font-size: 35px;
+    overflow: hidden;
+    color:#fffefea3;
+    position: relative;
+}
+
+.FooterDiv{
+    width: 1032px;
+    margin: 0 auto;
+    background-color: #073137b3;
+    top: 25px;
+    left: 90px;
+    position: relative;
+    overflow: hidden;
+    height: 80px;
+    position: absolute;
+}
+
+.DivIcon {
+    width: 320px;
+    display: inline-block;
+    height: 64px;
+    overflow: hidden;
+    left: 80px;
+    top: 12px;
+    position: absolute;
+}
+
+.FB-Icon{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.DivIcon a{
+    text-decoration: none;
+    letter-spacing: 45px;
+}
+
+.ContactEdit{
+    list-style: none;
+}
+
+.CEdit{
+    height: 34px;
+    width: 195px;
+    right: 170px;
+    position: absolute;
+    top: 4px;
+    text-align: center;
+}
+
+.MEdit{
+    list-style: none;
+}
+
+.MailEdit{
+    height: 37px;
+    width: 370px;
+    overflow: hidden;
+    right: 70px;
+    position: absolute;
+    top: 40px;
+}
+
+.MailEdit a{
+    font-size: 25px;
+    text-align: right;
+}
+
+.MailEdit2{
+    text-decoration: none;
+    visibility: hidden;   
+}
+
+.ContactEdit:hover .MailEdit2{
+    visibility: visible;
+    color: tomato;
+}
+
+/* FooterArea End */

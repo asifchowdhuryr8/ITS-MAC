@@ -1,0 +1,846 @@
+ /*  ResponseMaking for 360 */
+         
+@media screen and (min-width: 100px) and (max-width:374px) {
+
+body{
+    background-color: grey;
+    color: skyblue;
+}
+
+/* Section1 Start */
+
+.section1 {
+    height: 205px;
+    width: 100%;
+}
+    
+.ImageEdit {
+    height: 160px;
+    width: 170px;
+}
+
+.Name {
+    letter-spacing: 4px;
+    font-size: 12px;
+    line-height: 12px;
+    padding-top: 10px;
+    width: 170px;
+    height: 85px;      
+}
+
+.Biodata {
+    font-size: 11px;
+    width: 160px;
+    height: 95px;
+}
+
+/* Section1 End */
+
+/* Section2 Start */
+
+.section2 {
+    width: 100%;
+    height: 570px;
+}
+
+.skills {
+    font-size: 17px;
+    color: gold;
+}
+
+.HTML {
+    height: 240px;
+    width: 83px;
+    padding: 14px 14px 0px 14px;
+    font-size: 10px;
+    animation: MAC2 2s;
+    background: #d36a6a4d;
+}
+
+.HTML h2 {
+    font-size: 10px;
+    float: left;
+}
+
+.HTMLH {
+    width: 79px;
+    font-size: 10px;
+}
+
+.WordEdit {
+    height: 160px;
+}
+
+/* IconArea Start */
+
+.Icons {
+    width: 20px;
+    float: left;
+}
+
+.H-icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+.C-Icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+.Cpp-Icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+/* IconArea End */
+
+.HTML2:hover {
+    animation: MAC7 2s;
+}
+
+progress {
+    font-size: 8px;
+}
+
+/*  Section2  End */
+
+/* FooterArea Start  for 360 */
+
+.footer{
+    width: 100%;
+    height: 105px;
+    font-size: 17px;
+}
+
+.FooterDiv {
+    width: 325px;
+    background-color: #6464a469;
+    height: 50px;
+    left: 18px;
+}
+
+.DivIcon {
+    width: 145px;
+    height: 40px;
+    left: 10px;
+    top: 5px;
+}
+
+.FB-Icon{
+    width: 20px;
+    height: 20px;
+}
+
+.DivIcon a{
+    letter-spacing: 0px;
+}
+
+.CEdit{
+    height: 25px;
+    width: 95px;
+    right: 50px;
+    top: 4px;
+}
+
+.MailEdit{
+    height: 25px;
+    width: 170px;
+    left: 155px;
+    top: 25px;
+}
+
+.MailEdit a{
+    font-size: 12px;
+}
+
+/* FooterArea End  for 360 */
+
+}
+
+
+/*  ResponseMaking for 375 */
+
+@media screen and ( min-width:375px) and (max-width:404px) {
+
+body{
+    background-color: grey;
+    color: skyblue;
+}
+
+/* Section1 Start */
+
+.section1 {
+    height: 200px;
+    width: 100%;
+}
+
+.ImageEdit {
+    height: 160px;
+    width: 170px;
+}
+
+.Name {
+    letter-spacing: 4px;
+    font-size: 12px;
+    line-height: 12px;
+    padding-top: 10px;
+    width: 170px;
+    height: 82px;
+}
+
+.Biodata {
+    font-size: 11px;
+    width: 160px;
+    height: 90px;
+}
+
+/* Section1 End */
+
+/* Section2 Start */
+
+.section2 {
+    width: 100%;
+    height: 530px;
+}
+
+.skills {
+    font-size: 17px;
+    color: aliceblue;
+}
+
+.HTML {
+    height: 220px;
+    width: 88px;
+    padding: 14px 14px 0px 14px;
+    font-size: 10px;
+    animation: MAC2 2s;
+    background: #68612a85;
+    color: chocolate;
+}
+
+.HTML h2 {
+    font-size: 10px;
+    float: left;
+}
+
+.HTMLH {
+    width: 79px;
+    font-size: 10px;
+}
+
+.WordEdit {
+    height: 160px;
+}
+
+/* IconArea Start */
+
+.Icons {
+    width: 20px;
+    float: left;
+}
+
+.H-icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+.C-Icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+.Cpp-Icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+/* IconArea End */
+
+.HTML2:hover {
+    animation: MAC3 2s;
+}
+
+progress {
+    font-size: 8px;
+}
+
+/* Section2 End */
+
+/* FooterArea Start  for 375 */
+
+.footer {
+    width: 100%;
+    height: 105px;
+    font-size: 17px;
+}
+
+.FooterDiv {
+    width: 325px;
+    background-color: #4f1f088c;
+    height: 50px;
+    left: 25px;
+}
+
+.DivIcon {
+    width: 150px;
+    height: 47px;
+    left: 10px;
+    top: 5px;
+}
+
+.FB-Icon {
+    width: 20px;
+    height: 20px;
+}
+
+.DivIcon a {
+    letter-spacing: 0px;
+}
+
+.CEdit {
+    height: 20px;
+    width: 97px;
+    right: 50px;
+}
+
+.MailEdit {
+    height: 25px;
+    width: 170px;
+    left: 155px;
+    top: 25px;
+}
+
+.MailEdit a {
+    font-size: 12px;
+}
+
+
+/* FooterArea End  for 375 */
+
+}
+
+/*  ResponseMaking for 414 */
+ 
+
+@media screen and (min-width: 405px) and (max-width:450px) {
+
+body {
+        background-color: grey;
+        color: skyblue;
+}
+
+/* Section1 Start */
+
+.section1 {
+        height: 200px;
+        width: 100%;
+}
+
+.ImageEdit {
+        height: 160px;
+        width: 170px;
+}
+
+.Name {
+        letter-spacing: 4px;
+        font-size: 20px;
+        line-height: 16px;
+        padding-top: 10px;
+        width: 200px;
+        height: 110px;
+}
+
+.Biodata {
+    font-size: 10px;
+    width: 190px;
+    height: 70px;
+}
+
+/* Section1 End */
+
+/* Section2 Start */
+
+.section2 {
+    width: 100%;
+    height: 435px;
+}
+
+.skills {
+    font-size: 17px;
+    color: #c7ff00;
+}
+
+.HTML {
+    height: 170px;
+    width: 25.2%;
+    padding:  15px 15px 0px 15px;
+    font-size: 10px;
+    animation: MAC4 2s;
+    background:#096f0075;
+    color:aliceblue;
+}
+
+.HTML h2 {
+    font-size: 9px;
+}
+
+/* IconArea Start */
+
+.Icons {
+    width: 12px;
+}
+
+.H-icon {
+    width: 12px;
+    margin-top: 0px;
+}
+
+
+.C-Icon {
+    width: 12px;
+    height: auto;
+    margin-top: 0px;
+}
+
+.Cpp-Icon {
+    width: 12px;
+    height: auto;
+    margin-top: 0px;
+}
+
+/* IconArea End */
+
+.HTMLH {
+    width: 79px;
+    font-size: 10px;
+}
+
+.C:hover {
+    animation: MAC6 2s;
+}
+
+progress {
+    font-size: 4px;
+}
+ 
+/* Section2 End */	
+
+/* FooterAreaStart for 414 */
+
+.footer{
+    width: 100%;
+    height: 105px;
+    font-size: 17px;
+}
+
+.FooterDiv {
+    width: 365px;
+    background-color: #5c065ab0;
+    height: 50px;
+    left: 24px;
+}
+
+.DivIcon {
+    width: 140px;
+    height: 45px;
+    left: 10px;
+    top: 5px;
+}
+
+.FB-Icon {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.DivIcon a {
+    letter-spacing: 0px;
+}
+
+.CEdit {
+    height: 20px;
+    width: 105px;
+    right: 65px;
+}
+
+.MailEdit {
+    height: 25px;
+    width: 214px;
+    left: 155px;
+    top: 25px;
+}
+
+.MailEdit a {
+    font-size: 15px;
+}
+
+/* FooterAreaEnd  for 414 */
+
+}
+
+
+/*  ResponseMaking for 768 */
+
+@media screen and (min-width:630px) and (max-width:799px) {
+
+body {
+    background-color: grey;
+    color: skyblue;
+}
+
+/* Section1 Start */
+
+.section1 {
+    height: 200px;
+    width: 752px;
+}
+
+.ImageEdit {
+    height: 175px;
+    width: 235px;
+    margin: 5px 0px 0px 5px;
+}
+
+.Name {
+    font-size: 15px;
+    line-height: 14px;
+    padding-top: 10px;
+    width: 460px;
+    height: 92px;
+}
+
+.Biodata {
+    font-size: 15px;
+    width: 440px;
+    height: 75px;
+}
+
+/* Section1 End */
+
+/* Section2 Start */
+
+.section2 {
+    width: 752px;
+    margin: 0 auto;
+    height: 436px;
+}
+
+.skills {
+    font-size: 20px;
+    padding: 10px 0px;
+}
+
+.HTML {
+    height: 175px;
+    width: 212px;
+    padding: 15px 15px 0px 15px;
+    background: #64646475;
+}
+
+.HTML h2 {
+    font-size: 14px;
+    float: left;
+}
+
+/* IconArea Start */
+
+.Icons {
+    width: 20px;
+    float: left;
+}
+
+.H-icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+.C-Icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+.Cpp-Icon {
+    width: 20px;
+    margin-top: 0px;
+}
+
+/* IconArea End */
+
+.HTMLH {
+    width: 79px;
+    font-size: 10px;
+}
+
+.WordEdit {
+    font-size: 14px;
+}
+
+progress {
+    font-size: 15px;
+}
+
+/* Section2 End */
+
+/*  FooterArea start for 768  */
+
+.footer {
+    width: 752px;
+    height: 130px;
+    font-size: 27px;
+}
+
+.FooterDiv {
+    width: 630px;
+    background-color: #59581f80;
+    height: 75px;
+    top: 25px;
+    left: 62px;
+}
+
+.DivIcon {
+    width: 250px;
+    height: 65px;
+    left: 60px;
+    top: 10px;
+}
+
+.DivIcon a {
+    letter-spacing: 15px;
+}
+
+.CEdit {
+    height: 35px;
+    width: 150px;
+    right: 70px;
+}
+
+.MailEdit {
+    width: 280px;
+    right: 0px;
+    top: 34px;
+}
+
+.MailEdit a{
+    font-size: 20px;
+}
+
+/* FooterArea End  for 768 */
+
+}
+
+
+/*  ResponseMaking for 1400 */
+
+
+@media screen and (min-width:1300px) {
+
+body{
+        background-color: grey;
+        color: skyblue;
+}
+ 
+/* Section2 Start */
+
+.section1{
+        height: 400px;
+        width: 1420px;
+        background-color: #0b1a27d7;
+        margin: auto;
+        overflow: hidden;
+}
+    
+.ImageEdit{
+        height: 380px;
+        width: 530px;
+        border-radius: 25px;
+        margin: 10px 0px 0px 10px;
+        float: left;
+        box-shadow: 0px 14px 28px 3px black;
+}
+    
+.Name{
+    margin: 0px;
+    letter-spacing: 8px;
+    font-size: 30px;
+    line-height: 19px;
+    padding-top: 20px;
+    float: right;
+    width: 820px;
+    text-align: center;
+    height: 140px;
+    overflow: hidden;
+}
+    
+.Biodata{
+        float: right;
+        font-size: 22px;
+        width: 800px;
+        text-align: center;
+        padding: 20px;
+        height: 140px;
+        overflow: hidden;
+}
+
+/* Section1 End */
+
+/* Section2 Start */
+
+.section2{
+        width: 1420px;
+        margin: 0 auto;
+        height: 611px;
+        background-color: black;
+}
+    
+.skills{
+        text-align: center;
+        font-size: 35px;
+        margin-bottom: 10px;
+        padding-top: 10px;
+        color: tomato;
+}
+
+.all{
+        padding: 5px;
+}
+    
+.HTML{
+        height: 210px;
+        width: 408px;
+        padding: 30px;
+        display: inline-block;
+        font-size: 18px;
+        overflow: hidden;
+        animation: MAC2 2s;
+        background-color: #23127591;
+        color: white;
+}
+    
+.HTML2 {
+        float: left; 
+}
+    
+.HTML h2{
+        display: inline-block;
+        font-size: 23px;
+} 
+  
+.HTMLH{
+        float: right;
+        width: 280px;
+}
+    
+.WordEdit{
+        overflow: hidden;
+        height: 150px;
+        text-align: justify;
+        float: left;
+}
+
+/* IconArea Start */
+
+.Icons{
+    width: 60px;
+    height: auto;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.H-icon{
+    width: 60px;
+    height: auto;
+    margin-top: 0px;
+}
+    
+.C-Icon{
+        width: 60px;
+        height: auto;
+        margin-top: 0px; 
+}
+   
+.Cpp-Icon{
+        width: 60px;
+        height: auto;
+        margin-top: 3px; 
+}
+
+/* IconArea End */
+    
+.HTML2:hover{
+    animation:MAC2 2s;     
+}
+
+/* Section2 End */
+   
+/* FooterArea Start  for 1400 */
+
+
+.footer{
+    margin: 0 auto;
+    width: 1420px;
+    height: 130px;
+    background-color: black;
+    font-size: 35px;
+    overflow: hidden;
+    color:#fffefea3;
+    margin-bottom: 100px;
+}
+
+.FooterDiv{
+    width: 1032px;
+    margin: 0 auto;
+    background-color: #14174dd1;
+    margin-top: 25px;
+    position: relative;
+    overflow: hidden;
+    height: 80px;
+}
+
+.DivIcon {
+    width: 300px;
+    display: inline-block;
+    height: 64px;
+    overflow: hidden;
+    left: 80px;
+    top: 12px;
+    position: absolute;
+}
+
+.FB-Icon{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.DivIcon a{
+    text-decoration: none;
+    letter-spacing: 45px;
+}
+
+
+.CEdit{
+    height: 34px;
+    width: 175px;
+    right: 235px;
+    position: absolute;
+    top: 4px;
+}
+
+.MailEdit{
+    height: 37px;
+    width: 350px;
+    overflow: hidden;
+    right: 100px;
+    position: absolute;
+    top: 40px;
+}
+
+.MailEdit a{
+    font-size: 25px;
+    text-align: right;
+}
+/* FooterArea End  for 1400 */
+}
